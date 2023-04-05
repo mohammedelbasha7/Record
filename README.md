@@ -1,4 +1,4 @@
-#Record
+# Record
 This script is a simple database management tool that allows users to insert, search, update and delete records from a text file. The records are composed of two fields: a name and an amount. The text file is organized as a comma-separated values (CSV) file. The script provides a command-line interface that guides the user through the different options.
 
 To use this script, simply run the bash script and follow the menu prompts. The menu options available are:
